@@ -47,7 +47,7 @@ For TFRecord Generator
 <img src="https://github.com/robinreni96/WordDetection-Data-Generator/blob/main/sample.jpg">
 </p>
 
-<a href="https://www.buymeacoffee.com/robinreni96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 80px !important;" ></a>
+<a href="https://www.buymeacoffee.com/robinreni96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 25px !important;" ></a>
 
 Copyright © 2021 Robin Reni. All rights reserved
    
